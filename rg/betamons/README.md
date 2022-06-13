@@ -1,6 +1,6 @@
 This is an archive of the 34 known beta Pokemon from the Red and Green era. Some of this material is official, some of it is not. Let's go into detail about this so we're on the same page.
 
-The back sprites are all official material, with speculative colourisations done by myself. This is mainly to make them more interesting, but greyscales will be included in a separate folder.
+The back sprites are all official material, with speculative colourisations done by myself. This is mainly to make them more interesting, but greyscales will be included in a separate folder. Most names are from official material; I tried to maintain this as much as possible. Some are fan-names from the Pokethon ROM Hack, such as Nidoreign, Guardia, and Gaotora/Gorotora.
 
 The front sprites are either near-pixel-perfect reconstructions or fan interpretations. 
 - Kotora, Gyopin, Puchikoon, and Mikon are from the SW97 demo, which appears to be their original spritework to go alongside the discovered back sprites.
