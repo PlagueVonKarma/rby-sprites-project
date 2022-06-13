@@ -21,3 +21,5 @@ The following Pokemon have different sprites;
 - Mewtwo
 
 Currently, only Rhydon and Ditto have been completed; thanks to EyeDonutz (https://twitter.com/theeyedonutz, https://www.deviantart.com/eyedonutz)
+
+Additionally, in the gigaleak that occurred in 2018, a Mew sprite from RB's development was also discovered, which is the last documented appearance of "fetus Mew", as the fandom calls it. It was greyscale, but since we have Mew's palette, it's easily been reconstructed. I have included the greyscale version for those interested, situated on a PS canvas.
