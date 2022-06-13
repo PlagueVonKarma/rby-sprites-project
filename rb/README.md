@@ -1,5 +1,7 @@
 This is a repository of Red and Blue's sprites. These sprites were first designed shortly after Red and Green were released, improving upon Red and Green's material. This was what the west got first.
 
+For the back sprites, go to the RG folder. RB made no alterations to these and it's best not to inflate file size by cloning them.
+
 As of now, my archive has the following;
 - The standard front and back sprites
 - PS-compatible canvases, many of which had transparency edits done by myself.
