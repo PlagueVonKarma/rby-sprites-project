@@ -1,0 +1,1 @@
+These are all the back sprites from Red, Green, and Blue. Blue made no alterations to these, so we got them in the west too. Thus, this is used for all of them. Yellow applied new palettes to them retroactively, in a way.
