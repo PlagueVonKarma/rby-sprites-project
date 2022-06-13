@@ -1,1 +1,1 @@
-These are the Spaceworld '97 front and back sprites for the original 151, which have art styles reminiscent of the originals. 
+These are the Spaceworld '97 front and back sprites for the original 151, which have art styles reminiscent of the originals. In fact, some are actually still the Pocket Monsters Aoi sprites, implying some of these were meant to be in Blue in the first place.
