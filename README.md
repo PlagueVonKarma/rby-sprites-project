@@ -13,4 +13,12 @@ The following spritesets are available, in chronological order;
 - Pocket Monsters Stadium ("Stadium Zero")
 - Pokemon Stadium
 
-While many of these are WIPs, RG, RB, SW97, and Yellow are all complete. 
+The Game Boy spritesets are mainly made for use with Tampermonkey scripts on Pokemon Showdown, allowing users to mix and match the spritesets for their ideal experience. For more details on this, go here: https://www.smogon.com/forums/threads/tampermonkey-script-for-gen-1-rb-rg-sw97-sprites-on-showdown.3694716/
+
+Stadium ones are not compatible due to being GIFs. 
+
+The following spritesets are incomplete, but have incomplete archives available for use;
+* Beta Pokemon material | Original 16 & Interview sheets have not been reconstructed.
+* Prototype Blue | Corocoro November & December '96 issue sprites have not been fully reconstructed; only two are done in addition to the RG Asset Leak's Blue Mew sprite.
+* Pocket Monsters Stadium
+* Pokemon Stadium
