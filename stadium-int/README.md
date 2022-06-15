@@ -1,4 +1,4 @@
-These are technically extracted using Stadium 2's unused Model Viewer, but they're the exact same models. Credits go to MeepBard for extracting these.
+These are technically extracted using Stadium 2's unused Model Viewer, but they're the exact same models. Credits go to MeepBard for extracting these. Because we're using Stadium 2, shinies are also included.
 
 The models here are intended for use on Pokemon Showdown's sprite index, which would then become usable on its platform. Thus, compressed models are what's used, with small resolution and such. 
 
