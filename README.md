@@ -22,3 +22,6 @@ The following spritesets are incomplete, but have incomplete archives available 
 * Prototype Blue | Corocoro November & December '96 issue sprites have not been fully reconstructed; only two are done in addition to the RG Asset Leak's Blue Mew sprite.
 * Pocket Monsters Stadium
 * Pokemon Stadium
+
+The following material could arguably be added, but is currently undecided;
+- CBB Scratchpad RB-like sprites from the GSC Gigaleak
