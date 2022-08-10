@@ -1,17 +1,19 @@
 # The RBY Sprites Project
-A project to document all Gen 1 Pokemon sprites for easy viewing and use. This is mainly in a Pokemon Showdown format, but other canvases (especially 56x56) are intended to be made available. It does not intend to move beyond the Gen 1 / SW97 era, intending to serve as a homage to the art styles used for Satoshi Tajiri's original vision.
+A project to document all Gen 1 Pokemon sprites for easy viewing and use. This is mainly in a Pokemon Showdown format, but other canvases are made available, such as fully cropped, enlarged, and versions that are ordered by Pokedex number. Additionally, versions that used a pinkish tone with a strange black, such as RGB, have versions restoring the original white that appeared to be intended, allowing for a less saturated look.
+
+This project does not intend to move beyond the Gen 1 / SW97 era, intending to serve as a homage to the art styles used for Satoshi Tajiri's original vision. All material is free for use by any passers-by, so long as the repository is credited in some capacity.
 
 The following spritesets are available, in chronological order;
-- Beta Pokemon material
-- Red and Green
-- Prototype Blue
-- Blue
-- SpaceWorld 1997
-- Prototype Yellow
-- Yellow
-- May 1998 Cache
-- Pocket Monsters Stadium ("Stadium Zero")
-- Pokemon Stadium
+* Beta Pokemon material
+* Red and Green
+* Prototype Blue
+* Blue
+* SpaceWorld 1997
+* Prototype Yellow
+* Yellow
+* May 1998 Cache
+* Pocket Monsters Stadium ("Stadium Zero")
+* Pokemon Stadium
 
 The Game Boy spritesets are mainly made for use with Tampermonkey scripts on Pokemon Showdown, allowing users to mix and match the spritesets for their ideal experience. For more details on this, go here: https://www.smogon.com/forums/threads/tampermonkey-script-for-gen-1-rb-rg-sw97-sprites-on-showdown.3694716/
 
@@ -24,4 +26,7 @@ The following spritesets are incomplete, but have incomplete archives available 
 * Pokemon Stadium
 
 The following material could arguably be added, but is currently undecided;
-- CBB Scratchpad RB-like sprites from the GSC Gigaleak
+* CBB Scratchpad RB-like sprites from the GSC Gigaleak
+
+Thank you for reading!
+~ Plague von Karma
