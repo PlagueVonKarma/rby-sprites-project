@@ -28,6 +28,6 @@ It also includes a reconstructed Gyarados front sprite from the SW '99 archive, 
 As of now, my archive has the following;
 - The standard front and back sprites
 - PS-compatible canvases, many of which had transparency edits done by myself.
-
-Things I'd like to add down the line;
-- 56x56 propotioned sprites
+- Colour-corrected versions
+- 250% enlarged versions
+- Cropped to sprite versions
