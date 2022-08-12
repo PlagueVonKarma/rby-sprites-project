@@ -11,10 +11,10 @@ As of now, my archive has the following;
 - 56x56 front sprites
 
 It also has the following WIP projects;
-- Reconstructions of the Corocoro November and December 1996 prototype front sprites; current two were done by EyeDonutz.
+- Reconstructions of the Corocoro November and December 1996 prototype front sprites; the current ones were done by my friend EyeDonutz. Includes a prototype RB Mew from the RG Asset Leak.
 
 Things I'd like to add down the line;
-- Glitch Pokemon, possibly adjusted for PS, palette, and transparency.
+- Glitch Pokemon, possibly adjusted for PS, palette, and transparency. Some vary by language versions, so the folder would likely be very large.
 
 EyeDonutz's Twitter and DeviantArt;
 https://twitter.com/theeyedonutz

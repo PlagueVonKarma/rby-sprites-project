@@ -1,4 +1,4 @@
-This is a repository of Red and Green's sprites. These are the first interpretations of the original 151 that were ever released. 
+This is a repository of Red and Green's sprites. These are the first interpretations of the original 151 that were ever released, produced in the early 90's.
 
 As of now, my archive has the following;
 - The standard front and back sprites

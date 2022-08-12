@@ -1,29 +1,6 @@
-These are the Spaceworld '97 front and back sprites for the original 151, which have art styles reminiscent of the originals. In fact, some are actually still the Pocket Monsters Aoi sprites, implying some of these were meant to be in Blue in the first place.
+These are the Spaceworld '97 front and back sprites for the original 151, which have art styles reminiscent of the originals. While they are dated November 1997, they could have been made a bit earlier than this. 
 
-The following Pokemon have front sprite differences from SW97;
-* Butterfree
-* Growlithe
-* Abra
-* Kadabra
-* Seadra
-* Magmar
-* Omanyte
-* Omastar
-* Articuno
-* Moltres
-
-The following Pokemon have back sprite differences from SW97;
-* Oddish
-* Gloom
-* Growlithe
-* Bellsprout
-* Weepinbell
-* Victreebel
-* Dodrio
-* Goldeen
-* Seaking
-
-It also includes a reconstructed Gyarados front sprite from the SW '99 archive, which had old-style shading and thus led me to believe it was meant for this art style.
+Some of the sprites here are actually still the Pocket Monsters Aoi sprites, implying some of these were meant to be in Blue in the first place, especially given some look like less polished versions (eg. Golem). The back sprites here are of incredible quality compared to the original games while also featuring the old design concepts, making them mesh very well with Red, Green, and Blue's sprites.
 
 As of now, my archive has the following;
 - The standard front and back sprites
